@@ -1,0 +1,10 @@
+# email summarizing project
+
+Play a bit with LLMs to summarize email into a simple tag.
+The idea is to have a bot read your email to quickly identify what type of email it is e.g.: Requesting of information, scheduling a meeting, or just an FYI.
+
+## exploration.ipynb
+
+Little exploration python notebook.
+Download the ENRON data to get a bunch of email for testing.
+Runs on `Python 3.12` using `ollama-python`.
